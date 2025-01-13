@@ -26,18 +26,4 @@ if __name__ == "__main__":
 
 
 
-      # -*- coding: latin-1 -*-
-
-#class Henkilo:
- #   nimi = "arto";
-  #  ika = 5;
-
-   # def __init__(self, nimi):
-    #    self.nimi = nimi;
-     #   self.ika = 0;
-
-    #def kerro(self):
-     #   return "Hei! Olen " + self.nimi + " ja ikäni on " + str(self.ika);
-
-#arto = Henkilo("Arto")
-#print "Mitä kertoo?: " + arto.kerro();
+   
