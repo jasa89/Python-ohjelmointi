@@ -9,5 +9,5 @@ The exercises are divided into the following categories:
 - **Data Structures**: lists, tuples, dictionaries
 - **Functions**: creating and using custom functions
 - **File Handling**: reading from and writing to files
-- **Modules and Libraries**: using Python's built-in libraries
+- **Modules and Libraries**: using Python's built-in libraries and creating own modules
 - **Object-Oriented Programming**: classes and objects
